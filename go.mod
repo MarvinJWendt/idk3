@@ -1,4 +1,4 @@
-module github.com/pterm/cli-template
+module github.com/MarvinJWendt/idk3
 
 go 1.16
 
