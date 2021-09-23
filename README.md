@@ -50,7 +50,7 @@
 ----
 
 This is a template CLI application, which can be used as a boilerplate for awesome CLI tools written in Go.
-This template prints the date or time to the terminal.
+This template prints the date or time to the terminal. asd asd
 
 ## Installation
 
