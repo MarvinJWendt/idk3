@@ -1,9 +1,9 @@
-# cli-template
+# idk3
 
 ## Usage
 > This cli template shows the date and time in the terminal
 
-cli-template [global options] command [options] [arguments...]
+idk3 [global options] command [options] [arguments...]
 
 ## Description
 
@@ -30,42 +30,42 @@ cli-template time --live
 ## Commands
 |Command|Usage|
 |-------|-----|
-|`cli-template date`|Prints the current date.|
-|`cli-template help`|Help about any command|
-|`cli-template time`|Prints the current time|
+|`idk3 date`|Prints the current date.|
+|`idk3 help`|Help about any command|
+|`idk3 time`|Prints the current time|
 # ... date
-`cli-template date`
+`idk3 date`
 
 ## Usage
 > Prints the current date.
 
-cli-template [global options] command [options] [arguments...]
+idk3 [global options] command [options] [arguments...]
 
 ## Flags
 |Flag|Usage|
 |----|-----|
 |`-f, --format string`|specify a custom date format (default "02 Jan 06")|
 # ... help
-`cli-template help`
+`idk3 help`
 
 ## Usage
 > Help about any command
 
-cli-template [global options] command [options] [arguments...]
+idk3 [global options] command [options] [arguments...]
 
 ## Description
 
 ```
 Help provides help for any command in the application.
-Simply type cli-template help [path to command] for full details.
+Simply type idk3 help [path to command] for full details.
 ```
 # ... time
-`cli-template time`
+`idk3 time`
 
 ## Usage
 > Prints the current time
 
-cli-template [global options] command [options] [arguments...]
+idk3 [global options] command [options] [arguments...]
 
 ## Description
 
@@ -80,4 +80,4 @@ You can print a live clock with the '--live' flag!
 
 
 ---
-> **Documentation automatically generated with [PTerm](https://github.com/pterm/cli-template) on 01 June 2021**
+> **Documentation automatically generated with [PTerm](https://github.com/pterm/cli-template) on 23 September 2021**

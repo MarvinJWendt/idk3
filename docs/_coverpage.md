@@ -1,4 +1,4 @@
-# cli-template
+# idk3
 
 > This cli template shows the date and time in the terminal
 
